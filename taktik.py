@@ -26,3 +26,4 @@ print(f"©️ Takım Kaptanı:   {kaptan}")
 print(f"🔥 Maçın Yıldızı:   {kilit_oyuncu}")
 print("-" * 35)
 print("Glory Glory Man United! 😈")
+#Guncelleme
